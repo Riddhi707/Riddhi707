@@ -1,6 +1,6 @@
 
 <h1>👋 Hi, I'm Riddhi Singh</h1>
-    <p><strong>I am eager to secure an IT internship to apply and expand my expertise in data analysis, database management, and software development, developed through a BCA and ongoing AEC in IT Programmer Analyst. Committed to contributing to innovative projects and collaborative teams.</strong></p>
+    <p><strong>I am eager to secure an IT Job to apply and expand my expertise in data analysis, database management, and software development, developed through a BCA and ongoing AEC in IT Programmer Analyst. Committed to contributing to innovative projects and collaborative teams.</strong></p>
 
     <h2>📫 Contact Information</h2>
     <ul>
