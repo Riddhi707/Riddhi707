@@ -12,7 +12,7 @@ I am an aspiring **IT Programmer Analyst**, currently pursuing an AEC in Compute
 
 ---
 
-## 🌱 I’m currently learning
+## 🌱 Certifications
 - Business Analytics with MS Excel
 - Digital Marketing Fundamentals
 - Ethical Hacking & Python Security
