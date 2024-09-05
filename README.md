@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**Riddhi707/Riddhi707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1>👋 Hi, I'm Riddhi Singh</h1>
     <p><strong>I am eager to secure an IT internship to apply and expand my expertise in data analysis, database management, and software development, developed through a BCA and ongoing AEC in IT Programmer Analyst. Committed to contributing to innovative projects and collaborative teams.</strong></p>
 
