@@ -1,41 +1,72 @@
-# Hi there! 👋 I'm Riddhi Singh
+<h1 align="center">📊 Riddhi Singh</h1>
+<p align="center">
+  <i>Business Analyst | Data-Driven Decision Maker | Insight Enthusiast</i>
+</p>
 
-I am an aspiring **IT Programmer Analyst**, currently pursuing an AEC in Computer Science. I hold a Bachelor's degree in Computer Applications and have hands-on experience in data analysis, software development, and database management. Here's a little about me:
-
----
-
-## 🔧 Skills
-- **Languages:** Python, Java, HTML, CSS, JavaScript
-- **Database Management:** SQL, Database Design
-- **Software Development:** Object-Oriented Programming, UML Design
-- **Web Development:** Front-End Development, Responsive Design, Back-End Integration
+<p align="center">
+  <a href="https://www.linkedin.com/in/riddhi-singh0/"><img src="https://img.shields.io/badge/LinkedIn-Riddhi%20Singh-blue?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:singhriddhi128@gmail.com"><img src="https://img.shields.io/badge/Gmail-singhriddhi128%40gmail.com-red?logo=gmail&style=flat-square" alt="Gmail" /></a>
+</p>
 
 ---
 
-## 🌱 Certifications
-- Business Analytics with MS Excel
-- Digital Marketing Fundamentals
-- Ethical Hacking & Python Security
+## 👩‍💻 About Me
+
+I’m an aspiring **Business Analyst** passionate about translating data into decisions. With hands-on experience in tools like **Excel, SQL, and Power BI**, I specialize in uncovering business insights through visual storytelling.
+
+- 🔍 Turning messy data into meaningful stories  
+- 📚 Constantly learning — from concepts to applications  
+- 🛠 Building dashboards, analyzing trends, and solving real-world problems  
+- 🌱 Currently exploring advanced analytics, finance-focused KPIs, and consulting frameworks
 
 ---
 
-## 📫 How to reach me:
-- **LinkedIn:** [Riddhi Singh](https://www.linkedin.com/in/riddhi-singh-827917250)
-- **Email:** singhriddhi707@gmail.com
+## 🚀 Highlight Projects
+
+### 📊 [Sales Insight – SQL & Power BI](https://github.com/Riddhi707/Sales-Insight.git)
+> An end-to-end sales performance project built using SQL queries and Power BI dashboards  
+- Queried sales datasets to analyze revenue, profit, and regional trends  
+- Created a visual dashboard to aid stakeholders in strategic decision-making  
 
 ---
 
-## 🚀 Projects
-- **Online Attendance System (Python)** – Real-time updates and reporting functionalities.
-- **Personality Test Website** – Built using HTML, CSS, and JavaScript.
-- **Hotel Management Application (Java)** – Designed using UML and OOP concepts.
-- **Jewelry Selling Website (PHP)** – Developed with modern web technologies.
+### 📈 [CycleWise – Excel Dashboard](https://github.com/Riddhi707/Sales_Insight_Excel)
+> A customer analysis dashboard built using advanced Excel features  
+- Cleaned and transformed raw data (ETL process)  
+- Used Pivot Tables, Slicers, and Charts to visualize key demographics and behavior  
 
 ---
 
-## 🌟 Interests:
-- Cooking, Photography, Reading, Volunteering
+## 🛠️ Tools & Skills
+
+| Skillset         | Description                                  |
+|------------------|----------------------------------------------|
+| **Excel**        | Advanced formulas, dashboards, pivot tables  |
+| **SQL**          | Data extraction, joins, aggregations         |
+| **Power BI**     | Interactive visualizations, DAX expressions  |
+| **ETL**          | Data cleaning, wrangling, and transformation |
+| **Analytics**    | Trend analysis, KPI tracking, storytelling   |
+| **Soft Skills**  | Communication, critical thinking, presentation |
 
 ---
 
-Thank you for visiting my profile! 😊
+## 📈 Currently Exploring
+
+- 📘 Advanced Power BI (DAX & custom visuals)  
+- 🧠 Business Case Frameworks (for consulting interviews)  
+- 📉 Financial Modeling Basics  
+- 🔄 Python for Business Analytics  
+
+---
+
+## 🤝 Let’s Connect
+
+I'm open to learning, collaboration, and opportunities in **data analytics, business consulting, or financial insights**.
+
+📬 **Email**: singhriddhi128@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/riddhi-singh0](https://www.linkedin.com/in/riddhi-singh0/)
+
+---
+
+⭐️ _“Learning is not learning until you apply it.” — Living this every day._
+
